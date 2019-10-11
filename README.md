@@ -1,4 +1,4 @@
-# SOLID-L-
+# SOLID (L)
 SOLID Principle example project (L)
 
 ### What is Liskov Substitution Principle?
